@@ -1,0 +1,64 @@
+{
+    "events": [
+        {
+            "start_date": {
+                "day": 1,
+                "month": 1,
+                "year": 1970,
+                "hour": 10,
+                "minute": 10,
+                "second": 10,
+                "millisecond": 0,
+                "display_date": "01.01.1970, 10:10:10"
+            },
+            "text": {
+                "headline": "The first event",
+                "text": "<b>Description:</b><br>This is the first event!<br><b>Source:</b><br> path/to/artefakt.db  <br><b>Evidence:</b><br> Artefakt 01"
+            },
+            "media": {
+                "url": "https://avatars.githubusercontent.com/u/96919731?v=4",
+                "caption": "5f0"
+            }
+        },
+        {
+            "start_date": {
+                "day": 17,
+                "month": 1,
+                "year": 1970,
+                "hour": 10,
+                "minute": 10,
+                "second": 10,
+                "millisecond": 0,
+                "display_date": "17.01.1970, 10:10:10"
+            },
+            "text": {
+                "headline": "The second event",
+                "text": "<b>Description:</b><br>This is the second event!<br><b>Source:</b><br> path/to/artefakt.db  <br><b>Evidence:</b><br> Artefakt 01"
+            },
+            "media": {
+                "url": "https://avatars.githubusercontent.com/u/96919731?v=4",
+                "caption": "5f0"
+            }
+        },
+        {
+            "start_date": {
+                "day": 24,
+                "month": 1,
+                "year": 1970,
+                "hour": 10,
+                "minute": 10,
+                "second": 10,
+                "millisecond": 0,
+                "display_date": "24.01.1970, 10:10:10"
+            },
+            "text": {
+                "headline": "The third event",
+                "text": "<b>Description:</b><br>This is the third event!<br><b>Source:</b><br> path/to/artefakt.db  <br><b>Evidence:</b><br> Artefakt 01"
+            },
+            "media": {
+                "url": "https://avatars.githubusercontent.com/u/96919731?v=4",
+                "caption": "5f0"
+            }
+        }
+    ]
+}
